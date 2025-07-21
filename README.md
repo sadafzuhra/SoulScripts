@@ -39,7 +39,6 @@ SoulScripts/
 └── requirements.txt
 ```
 
----
 
 ## 📚 Features
 
