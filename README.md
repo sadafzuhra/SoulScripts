@@ -51,13 +51,13 @@ SoulScripts/
 - 🌠 Vision Board uploader
 - 📊 Self-care Graph visualizations
 
----
+
 
 ## 💡 Customization
 
 You can add your own quotes in `assets/quotes.txt` (one per line) and update the home page background image with a new `cover.jpg`.
 
----
+
 
 ## ✅ Best For:
 - Students
@@ -65,6 +65,6 @@ You can add your own quotes in `assets/quotes.txt` (one per line) and update the
 - Mindfulness & reflection lovers
 - Mobile journaling with simple interface
 
----
+
 
 Enjoy your growth journey! 🌸
