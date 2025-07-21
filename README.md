@@ -17,8 +17,7 @@
 4. Launch the app with:
 
    ```bash
-   streamlit run streamlit_app.py
-   ```
+   streamlit run streamlit_app.py ```
 
 
 
