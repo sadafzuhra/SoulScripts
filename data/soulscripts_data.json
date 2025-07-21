@@ -1,0 +1,59 @@
+{
+    "2025-07-21": {
+        "morning_clarity": {
+            "intentions": "Stay focused and calm during work.",
+            "affirmations": [
+                "I am capable of handling anything today brings.",
+                "I radiate peace and purpose."
+            ],
+            "non_negotiables": [
+                "Drink 2L of water",
+                "30 minutes walk",
+                "No negative self-talk"
+            ]
+        },
+        "evening_reflection": {
+            "what_went_well": "Completed my tasks and stayed calm.",
+            "what_i_learned": "Pausing before reacting helps.",
+            "what_to_improve": "Less screen time before bed."
+        },
+        "gratitude": [
+            "Supportive friends",
+            "Time to reflect",
+            "Good health"
+        ],
+        "mood": "Calm and centered",
+        "free_write": "Felt much more present today. Listened to my body more.",
+        "goals": [
+            "Finish UI design for SoulScripts",
+            "Do 15 minutes meditation",
+            "Journal consistently for a week"
+        ],
+        "checklist": {
+            "Meditation": "done",
+            "Read 20 pages": "incomplete",
+            "Hydration": "done"
+        },
+        "trigger_tracker": [
+            {
+                "trigger": "A friend's offhand comment",
+                "emotional_response": "Felt dismissed",
+                "coping_tool": "Deep breathing + journaling"
+            }
+        ],
+        "inner_child_checkin": {
+            "how_she_feels": "A bit sensitive today",
+            "how_i_nurtured_her": "Let her draw and listened without judgment"
+        },
+        "dreams": {
+            "remembered": "Yes",
+            "description": "Was flying over a golden city",
+            "feelings": "Free, hopeful"
+        },
+        "quote_of_the_day": "Everything you want is on the other side of consistency.",
+        "vision_board": [
+            "uploaded_vision_board/vision1.jpg",
+            "uploaded_vision_board/vision2.png"
+        ]
+    }
+}
