@@ -10,17 +10,14 @@
 2. Use **Python 3.10 or 3.11** (Python 3.12 is not yet supported).
 3. Install the required dependencies:
 
-   ```bash
-   pip install -r requirements.txt
-````
+   '''bash
+   pip install -r requirements.txt'''
+
 
 4. Launch the app with:
 
-   ```bash
-   streamlit run streamlit_app.py ```
-
-
-
+   '''bash
+   streamlit run streamlit_app.py'''
 
 
 ## 📚 Features
