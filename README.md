@@ -1,8 +1,4 @@
-Of course! Here's the final `README.md` content in **raw Markdown format** — just copy and paste it directly into your `README.md` file:
-
----
-
-````markdown
+````
 # 🌸 SoulScripts — Digital Growth & Healing Journal
 
 **SoulScripts** is a mobile-friendly journaling app built with Streamlit, inspired by Tam Kaur’s *Obsessed With Growth*. It’s your private space to **reflect, heal, grow, and dream** — right from your browser or phone.
