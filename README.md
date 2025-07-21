@@ -1,24 +1,29 @@
+Of course! Here's the final `README.md` content in **raw Markdown format** — just copy and paste it directly into your `README.md` file:
 
-# 🌸 SoulScripts - Digital Growth & Healing Journal
+---
 
-Inspired by Tam Kaur’s *Obsessed With Growth* journal, **SoulScripts** is a mobile-friendly multi-page journaling app built in Streamlit. It’s your private space to reflect, heal, grow, and dream.
+````markdown
+# 🌸 SoulScripts — Digital Growth & Healing Journal
+
+**SoulScripts** is a mobile-friendly journaling app built with Streamlit, inspired by Tam Kaur’s *Obsessed With Growth*. It’s your private space to **reflect, heal, grow, and dream** — right from your browser or phone.
 
 ---
 
 ## 🔧 How to Run
 
-1. Clone the repo or download the files.
-2. Make sure you have Python 3.10 or 3.11 (avoid 3.12 for now).
-3. Install required libraries:
+1. Clone this repository or download the project files.
+2. Use **Python 3.10 or 3.11** (Python 3.12 is not yet supported).
+3. Install the required dependencies:
 
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+````
 
-4. Run the app:
+4. Launch the app with:
 
-```bash
-pip install streamlit_app.py```
+   ```bash
+   streamlit run streamlit_app.py
+   ```
 
 ---
 
@@ -27,7 +32,7 @@ pip install streamlit_app.py```
 ```
 SoulScripts/
 ├── streamlit_app.py              # Main entry point
-├── pages/                        # All sub-pages for journaling
+├── pages/                        # Journaling sub-pages
 ├── data/
 │   └── soulscripts_data.json     # Saved journal entries (auto-created)
 ├── uploads/
@@ -36,35 +41,42 @@ SoulScripts/
 │   ├── quotes.txt                # Optional quote library
 │   └── pastel_backgrounds/
 │       └── cover.jpg             # Home screen image
-└── requirements.txt
+└── requirements.txt              # List of dependencies
 ```
 
+---
 
 ## 📚 Features
 
-- 🌞 Morning Clarity & 🌙 Evening Reflection
-- 📆 Weekly & 📅 Monthly Reviews
-- 🚨 Trigger Tracker with coping logs
-- 💤 Dream journal with feelings & symbols
-- 🧸 Inner child emotional check-ins
-- 📖 Quote of the day (manual or random)
-- 🌠 Vision Board uploader
-- 📊 Self-care Graph visualizations
+* 🌞 Morning Clarity & 🌙 Evening Reflections
+* 📆 Weekly & 📅 Monthly Reviews
+* 🚨 Trigger Tracker with Coping Logs
+* 💤 Dream Journal with Feelings & Symbols
+* 🧸 Inner Child Emotional Check-ins
+* 📖 Quote of the Day (manual or random)
+* 🌠 Vision Board Uploader
+* 📊 Self-care Graph Visualizations
 
-
+---
 
 ## 💡 Customization
 
-You can add your own quotes in `assets/quotes.txt` (one per line) and update the home page background image with a new `cover.jpg`.
+* Add your favorite quotes in `assets/quotes.txt` (one per line).
+* Change the home screen image by replacing `assets/pastel_backgrounds/cover.jpg`.
 
+---
 
+## ✅ Best For
 
-## ✅ Best For:
-- Students
-- Healing journeys
-- Mindfulness & reflection lovers
-- Mobile journaling with simple interface
+* 🧘‍♀️ Students
+* 💖 Healing journeys
+* ✨ Mindfulness & reflection lovers
+* 📱 Simple mobile journaling interface
 
+---
 
+**Enjoy your self-love and growth journey!**
+🌸 *You are your own best healer.* 🌸
 
-Enjoy your growth journey! 🌸
+```
+
